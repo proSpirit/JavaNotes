@@ -37,27 +37,27 @@
 
 ## :coffee: Java
 
-### Java/J2EE 基础
+### Java基础
 
 * [Java 基础知识](https://github.com/proSpirit/JavaNotes/blob/master/Java/01基础知识/Java基础.md)
 * [static、final、this、super关键字总结](https://github.com/proSpirit/JavaNotes/blob/master/Java/01基础知识/final、static、this、super.md)
 
-### Java 集合框架
+### Java集合
 
 * [Collection](https://github.com/proSpirit/JavaNotes/blob/master/Java/02集合/Collection.md)
 * [Map](https://github.com/proSpirit/JavaNotes/blob/master/Java/02集合/Map.md)
 
    
 ### Java 多线程
-* [多线程](https://github.com/proSpirit/JavaNotes/blob/master/Java/03多线程%20并发编程艺术/Java多线程.md)
-* [AQS原理](https://github.com/proSpirit/JavaNotes/blob/master/Java/03多线程%20并发编程艺术/AQS.md)
-* [并发容器总结](https://github.com/proSpirit/JavaNotes/blob/master/Java/03多线程%20并发编程艺术/并发容器总结.md)
-* [BATJ都爱问的多线程面试题](https://github.com/proSpirit/JavaNotes/blob/master/Java/03多线程%20并发编程艺术/BATJ都爱问的多线程面试题.md)
+* [多线程](https://github.com/proSpirit/JavaNotes/blob/master/Java/03多线程&并发编程艺术/Java多线程.md)
+* [AQS原理](https://github.com/proSpirit/JavaNotes/blob/master/Java/03多线程&并发编程艺术/AQS.md)
+* [并发容器总结](https://github.com/proSpirit/JavaNotes/blob/master/Java/03多线程&并发编程艺术/并发容器总结.md)
+* [BATJ都爱问的多线程面试题](https://github.com/proSpirit/JavaNotes/blob/master/Java/03多线程&并发编程艺术/BATJ都爱问的多线程面试题.md)
 
 
 ### Java 虚拟机 JVM
 
-* [多线程](https://github.com/proSpirit/JavaNotes/blob/master/Java/04JVM/Java虚拟机.md)
+* [Java虚拟机](https://github.com/proSpirit/JavaNotes/blob/master/Java/04JVM/Java虚拟机.md)
 * [Java内存区域详解](https://github.com/proSpirit/JavaNotes/blob/master/Java/04JVM/Java内存区域详解.md)
 
 ### Java IO与NIO
@@ -67,8 +67,6 @@
 
 ## :open_file_folder: J2EE
    
-### J2EE
-
 * [J2EE基础知识](https://github.com/proSpirit/JavaNotes/blob/master/JavaWeb/J2EE基础知识.md)
 * [Spring学习](https://github.com/proSpirit/JavaNotes/blob/master/JavaWeb/Spring学习与面试.md)
 * [Spring Bean](https://github.com/proSpirit/JavaNotes/blob/master/JavaWeb/SpringBean.md)
@@ -76,8 +74,6 @@
 
 
 ## :floppy_disk: 数据库
-
-### MySQL
 
 * [数据库系统原理](https://github.com/proSpirit/JavaNotes/blob/master/Database/数据库系统原理.md)
 * [MySQL](https://github.com/proSpirit/JavaNotes/blob/master/Database/MySQL.md)
@@ -106,7 +102,7 @@
 
 ### Linux相关
 
-* [Linux](https://github.com/proSpirit/JavaNotes/blob/master/计算机网络/Linux.md)
+* [Linux](https://github.com/proSpirit/JavaNotes/blob/master/操作系统/Linux.md)
 
 ## :pencil2: 工具
 
