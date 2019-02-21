@@ -4,8 +4,8 @@
 ## 目录
 
 - [:coffee: Java](#coffee-java)
-  - [Java 基础](#Java-基础)
-  - [Java 集合](#Java-集合)
+  - [Java 基础](#Java基础)
+  - [Java 集合](#Java集合)
   - [Java 多线程](#Java-多线程)
   - [Java IO 与 NIO](#Java-io-与-nio)
   - [Java 虚拟机 jvm](#Java-虚拟机-JVM)
